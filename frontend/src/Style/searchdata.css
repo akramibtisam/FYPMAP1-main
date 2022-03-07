@@ -1,0 +1,127 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.SeachData_main{
+
+}
+.Search_header{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    position:sticky;
+    width: 100%;
+    top: 0;
+    /* z-index: 100; */
+    padding-bottom: 10px;
+}
+.Search_header_form{
+    width: 70%;
+    /* border: 1px solid red; */
+}
+.Search_header_form>div{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    height: 50px;
+
+}
+.Search_header_form>div>input{
+    border-radius: 7px;
+    padding: 2px 2px;
+    width: 30%;
+}
+.Search_header_form>div>select{
+    width: 30%;
+    padding: 5px 2px;
+    border-radius: 7px;
+}
+.Search_header_form>a{
+    /* border: 2px solid red; */
+    border: none;
+    width: 40%;
+    padding: 5px 25px;
+    margin: auto;
+    display: flex;
+    justify-content: center;
+    border-radius: 12px;
+    font-weight: 600;
+    /* word-spacing:0.5em; */
+    background-color: #eac6f9;
+}
+.search_data_container{
+    width: 68%;
+    margin: auto;
+    margin-top: 15px;
+}
+.seacrh_data_box{
+    width: 800px;
+    height: 330px;
+    /* background-color: blue; */
+    /* border: 2px solid black; */
+    display: flex;
+}
+.seacrh_data_box_content{
+    width: 400px;
+    height: 320px;
+    /* border: 2px solid black; */
+}
+.seacrh_data_box_content>img{
+    width: 400px;
+    height: 330px;
+    object-fit:cover;
+    object-position: right;
+    border-bottom-left-radius: 7px;
+    border-top-left-radius: 7px;
+}
+/* .seacrh_data_box_content1>p{
+    font-weight: 450;
+} */
+.seacrh_data_box_content1{
+    background-color: rgba(236, 229, 229, 0.788);
+    padding-left: 25px;
+    border-top-right-radius: 7px;
+    border-bottom-right-radius: 7px;
+}
+.pkr{
+    font-weight: 600;
+    margin-right: 15px;
+}
+.price{
+    font-size: 25px;
+    font-weight: 600;
+}
+.seacrh_data_box_content1>h3{
+    font-size: 20px;
+    margin: 10px 0px;
+}
+.seacrh_data_box_content1_logos{
+    display: flex;
+    justify-content: space-evenly;
+}
+.seacrh_data_box_content1_logos>div>img{
+    width: 42px;
+}
+.seacrh_data_box_content1_logos>div{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.seacrh_data_box_content1_logos>div>p{
+    margin-right: 35px;
+}
+.seacrh_data_box_content1_disc{
+    margin: 0;
+    padding-right: 10px;
+    font-weight: 500;
+    letter-spacing: 0.5px;
+}
+.arrow{
+    width: 20%;
+    margin-top: -10px;
+    float: right;
+    margin-right: 15px;
+    cursor: pointer;
+}

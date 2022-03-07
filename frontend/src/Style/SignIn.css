@@ -1,0 +1,119 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family:'Merriweather';
+    color: black;
+}
+.signin_container{
+     width: 100vw;
+     height:100vh;
+     display: flex;
+     justify-content: center;
+     align-items: center;
+    background: linear-gradient(180deg, #EAF7FF 0%, #E5F4FF 95.31%);
+}
+.container1{
+    width: 70%;
+    height: 600px;
+    background: linear-gradient(180deg, #EAF7FF 0%, #E5F4FF 95.31%);
+   display: flex;
+   z-index: 1;
+   /* border: 1px solid red; */
+
+}
+.container1__img{
+    width: 100%;
+    height: 100%;
+     background-image: url('../images/house.png');
+    background-size: cover;
+    background-repeat: no-repeat;
+    border-radius: 10px;
+    background-position: center;
+   /* border: 1px solid red; */
+
+}
+.container1__form{
+    width: 100%;
+    height: 100%;
+    margin-top: 20px;
+   /* border: 1px solid red; */
+
+}
+.fields{
+    width: 70%;
+    background: white;
+    margin: auto;
+    height: 65%;
+    padding: 25px;
+    border-radius: 18px;
+}
+.field_button{
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    margin-top: 10px;
+}
+.field_button>button{
+    width: 50%;
+    outline: none;
+    background-color: #5CA1FF;
+    border-radius: 22px;
+    color: white;
+    border: none;
+    padding: 5px;
+}
+.field_button>button:hover{
+    background:#2F78FF;
+}
+.new__acount{
+    width: 70%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin: auto;
+    margin-top:10px;
+}
+.checkinfo{
+     margin-top: 20%;
+     display: flex;
+     justify-content: center;
+}
+.signup-history{
+    margin-top: 10px;
+}
+.new_account_signup{
+    color:#2F78FF;
+    cursor: pointer;
+
+}
+.new_account_signin{
+    font-size: 30px;
+    font-weight: 600;
+    font-family: 'Playfair Display';
+    margin-bottom: 0px;
+    margin-left: 20px;
+}
+.signup-history{
+    /* margin-bottom: 0px; */
+    padding-top: 10px;
+}
+.field_label{
+    display: flex;
+    justify-content: left;
+}
+.adminloginbutton{
+    background-color: rgb(235, 77, 77);
+    /* padding-left:20px ;
+    padding-right: 20px;
+    padding-top: 5px; */
+    border-radius: 15px;
+    border:none;
+    padding-bottom: 5px;
+    color: white;
+    padding: 5px;
+    width: 100%;
+}
+.adminloginbutton:hover{
+    background-color: red;
+}

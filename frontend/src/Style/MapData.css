@@ -1,0 +1,217 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: Public Sans;
+}
+.mapdata_container{
+    width: 100%;
+    height: 800px;
+    background: linear-gradient(249.66deg, #52A8E7 0%, #34A7FA 0.01%, #F7F7F7 64.06%, #FDFDFD 100%);
+}
+.house_header{
+    font-family: Public Sans;
+    font-style: normal;
+    font-weight: normal;
+/* line-height: 169px; */
+}
+.house_header_container>p{
+    color: rgba(0, 0, 0, 0.5);
+    margin-top: -10px;
+}
+.house_header_container>h2,p{
+    margin-left: 40px;
+}
+.house_header{
+    margin-top: 5px;
+}
+.house_header_container{
+    width: 58%;
+    background: #FFFFFF;
+    box-shadow: 0px 4px 15px 7px rgba(0, 0, 0, 0.25);
+    border-radius: 10px;
+    padding: 5px 0px;
+    margin-left:30px;
+    position: relative;
+    top: 35px;
+}
+.border-bottom{
+    height: 3px;
+    background-color: black;
+    position: absolute;
+    top:150px;
+    width: 95%;
+    margin-left: 30px;
+}
+.house_icons_img>img{
+    width: 40px;
+    height:40px;
+    /* display: flex; */
+}
+.house_icons_img{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.house_icons_img>p{
+    font-size: 12px;
+    margin-left: -3px;
+    color: rgba(0, 0, 0, 0.5);
+}
+.house_icons_container{
+    position: absolute;
+    top: 190px;
+    background:white;
+    box-shadow: 0px 4px 15px 7px rgba(0, 0, 0, 0.25);
+    height: 400px;
+    width: 100px;
+    margin-left: 30px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-around;
+    border-radius: 10px;
+}
+/* .house_icons_img:nth-child(1){
+    margin-top: 15px;
+} */
+.house_img{
+    position: absolute;
+    top:190px;
+    left: 150px;
+}
+.house_img>img{
+    border-radius: 10px;
+    height: 400px;
+}
+.house_detail_heading{
+    background: #00000091;
+    /* border-top-left-radius: 10px; */
+    /* border-top-right-radius: 10px; */
+    padding: 5px 0px;
+}
+.house_detail_heading>h2{
+    margin-left: 20px;
+    font-size:18px;
+    color: white;
+    font-weight: 300;
+}
+.house_details{
+    width: 58%;
+    position: absolute;
+    bottom:-70px;
+    box-shadow: 0px 4px 15px 7px rgba(0, 0, 0, 0.25);
+    margin-left: 32px;
+}
+.house_detail_box1{
+    width: 50%;
+}
+.box1{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-left: 20px;
+}
+.house_detail_boxes_container{
+    display: flex;
+    justify-content: space-between;
+    background: white;
+    margin-top: -7px;
+    /* border-bottom-left-radius: 10px; */
+    /* border-bottom-right-radius: 10px; */
+}
+.box2{
+    margin-right: 70px;
+}
+.box2>span{
+    font-weight: 600;
+}
+.call_container{
+    width: 23%;
+    height: 520px;
+    border-radius: 10px;
+    background: white;
+    box-shadow: 0px 4px 15px 7px rgba(0, 0, 0, 0.25);
+    position: absolute;
+    right: 150px;
+    top: 195px;
+}
+.call_container>p{
+    font-weight:700;
+    font-size: 18px;
+    text-align: center;
+    margin: 15px 0px;
+}
+.call_btn>span{
+    font-size: 20px;
+    color: white;
+    margin-left: 5px;
+}
+.call_btn{
+    width: 250px;
+    background: #15CD5E;
+    border-radius: 8px;
+    text-align: center;
+    padding: 3px 0px;
+    margin: auto;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.call_btn>img{
+    width: 22px;
+    height: 22px;
+}
+.form_name>input{
+    outline: none;
+    border: 1px solid lightgray;
+    background: #E5E5E5;
+    width: 95%;
+    border-radius: 6px;
+
+}
+.form_phone>input{
+    outline: none;
+    border: 1px solid lightgray;
+    background: #E5E5E5;
+    width: 95%;
+    border-radius: 6px;
+}
+.form_name,.form_phone,.form_text{
+    background: #E5E5E5;
+    border-radius: 10px;
+    margin: 15px;
+    padding: 10px;
+    font-family: Public Sans;
+
+}
+.form_text>textarea{
+    background: #E5E5E5;
+    outline: none;
+    border: 1px solid lightgray;
+    border-radius: 10px;
+
+}
+.form_option{
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+}
+.option>label{
+    margin-left: 12px;
+}
+.option>input{
+    width: 18px;
+    height: 18px;margin-left: 5px;
+    border-radius: 10px;
+}
+.option{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    margin-top: -10px;
+}
+.option_para{
+    margin-left:20px
+}

@@ -1,0 +1,132 @@
+.imag1{
+    padding-left: 0px;
+    padding-top: 20px;
+}
+.PicText{
+    margin-left: 140px;
+    background-image: url('../images/AlKabir.jpg');
+    background-repeat: no-repeat;
+    height: 53vh;
+    width:140vh;
+    text-align: center;
+    justify-content: center;
+    font-size: 50px;
+    padding-top: 150px;
+    padding-right: 30px;
+    color: white;
+}
+.PicText2{
+    margin-left: 140px;
+    background-image: url('../images/AlKabir2.jpg');
+    background-repeat: no-repeat;
+    height: 80vh;
+    width:140vh;
+    text-align: center;
+    justify-content: center;
+    padding-top: 150px;
+    padding-right: 30px;
+}
+
+.PicText3{
+    margin-left: 140px;
+    background-image: url('../images/AlKabir3.jpg');
+    background-repeat: no-repeat;
+    height: 80vh;
+    width:140vh;
+    text-align: center;
+    justify-content: center;
+    padding-top: 150px;
+    padding-right: 30px;
+}
+
+.PicText4{
+    margin-left: 140px;
+    background-image: url('../images/AlKabir4.jpg');
+    background-repeat: no-repeat;
+    height: 80vh;
+    width:140vh;
+    text-align: center;
+    justify-content: center;
+    padding-top: 150px;
+    padding-right: 30px;
+}
+
+.PicText5{
+    margin-left: 140px;
+    background-image: url('../images/AlKabirMosque.jpg');
+    background-repeat: no-repeat;
+    height: 80vh;
+    width:140vh;
+    text-align: center;
+    justify-content: center;
+    padding-top: 150px;
+    padding-right: 30px;
+}
+.PicText6{
+    margin-left: 140px;
+    background-image: url('../images/AlKabirPopular.jpg');
+    background-repeat: no-repeat;
+    height: 80vh;
+    width:140vh;
+    text-align: center;
+    justify-content: center;
+    padding-top: 150px;
+    padding-right: 30px;
+}
+.Highlight{
+    padding-top: 30px;
+    text-transform: uppercase;
+    letter-spacing: 3px;
+}
+.green{
+    color: green;
+    font-size: 50px;    
+}
+
+hr.hrclass {
+    margin-top: 100px;
+    background-color: #fff;
+    height: 30px;
+    border: 1px solid #8c8c8c;
+    border-radius: 20px;
+  }
+  
+  hr.hrclass:before {
+    display: block;
+    content: "";
+    height: 30px;
+    margin-top: -31px;
+    border: 0 solid #8c8c8c;
+    border-bottom-width: 1px;
+    border-radius: 20px;
+  }
+  
+hr.hr-17 {
+    border: 0;
+    height: 0;
+    box-shadow: 0 0 10px 5px black;
+  }
+  
+  hr.hr-17:after {
+    content: "\00a0";
+  }
+.Title{
+    padding-top: 60px;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-weight: 700;
+}
+.desc{
+    padding-top: 40px;
+    font-size: 20px;
+    letter-spacing: 1px;
+}
+.list{
+    font-size: 20px;
+    margin-top: 50px;
+    margin-left: 50px;
+}
+.list li{
+    margin-top: 30px;
+}

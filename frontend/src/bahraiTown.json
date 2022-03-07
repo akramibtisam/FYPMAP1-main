@@ -1,0 +1,497 @@
+
+{
+    "type": "FeatureCollection",
+    "crs": {
+      "type": "name",
+      "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" }
+    },
+    "features": [
+      {
+        "type": "Feature",
+        "properties": {
+          "Type":"Plot",
+          "House_Number":115,
+          "land_size":"10 Marla",
+          "Bedrooms":5,
+          "Baths":7,
+          "Address":"Jasmine Block Sector C",
+          "Area":"Bahria Town",
+          "Sector":"C",
+          "Price":"Rs 2.8 Crore",
+          "Date":"20 March 2020",
+          "image":"https://i.postimg.cc/YqmgQXsp/muhammad-arsalan-r-Id-U7h0us-Qs-unsplash.jpg",
+          "icon":"https://i.postimg.cc/ZnFy6j9g/location-pin.png",
+          "icon1":"https://i.postimg.cc/xdDnSQpv/globe-grid.png"
+
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [74.194020,31.374285]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Type":"House",
+          "House_Number":116,
+          "land_size":"10 Marla",
+          "Bedrooms":5,
+          "Baths":7,
+          "Address":"Jasmine Block Sector C",
+          "Area":"Bahria Town",
+          "Sector":"C",
+          "Price":"Rs 2.8 Crore",
+          "Date":"20 March 2020",
+          "image":"https://i.postimg.cc/SxQv5xh2/vu-anh-Ti-VPTYCG-3-E-unsplash.jpg",
+          "icon":"https://i.postimg.cc/ZnFy6j9g/location-pin.png",
+          "icon1":"https://i.postimg.cc/xdDnSQpv/globe-grid.png"
+
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [74.193023,31.373304]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Type":"House",
+          "House_Number":117,
+          "land_size":"10 Marla",
+          "Bedrooms":5,
+          "Baths":7,
+          "Address":"Jasmine Block Sector C",
+          "Area":"Bahria Town",
+          "Sector":"C",
+          "Price":"Rs 2.8 Crore",
+          "Date":"20 March 2020",
+          "image":"https://i.postimg.cc/d1CHd78X/ralph-ravi-kayden-2d4l-AQAlb-DA-unsplash.jpg",
+          "icon":"https://i.postimg.cc/ZnFy6j9g/location-pin.png",
+          "icon1":"https://i.postimg.cc/xdDnSQpv/globe-grid.png"
+
+
+
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [74.196821,31.374871]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Type":"House",
+          "House_Number":118,
+          "land_size":"10 Marla",
+          "Bedrooms":5,
+          "Baths":7,
+          "Address":"Jasmine Block Sector C",
+          "Area":"Bahria Town",
+          "Sector":"C",
+          "Price":"Rs 2.8 Crore",
+          "Date":"20 March 2020",
+          "image":"https://i.postimg.cc/xCGGnLG0/sieuwert-otterloo-aren8nutd1-Q-unsplash.jpg",
+          "icon":"https://i.postimg.cc/ZnFy6j9g/location-pin.png",
+          "icon1":"https://i.postimg.cc/xdDnSQpv/globe-grid.png"
+
+
+
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [74.187937, 31.378993]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Type":"Commercial",
+          "House_Number":119,
+          "land_size":"10 Marla",
+          "Bedrooms":5,
+          "Baths":7,
+          "Address":"Jasmine Block Sector C",
+          "Area":"Bahria Town",
+          "Sector":"C",
+          "Price":"Rs 2.8 Crore",
+          "Date":"20 March 2020",
+          "image":"https://i.postimg.cc/Y9wDwsYg/elifin-realty-4n-Mj4-N6r-K4-M-unsplash.jpg",
+          "icon":"https://i.postimg.cc/ZnFy6j9g/location-pin.png",
+          "icon1":"https://i.postimg.cc/xdDnSQpv/globe-grid.png"
+
+
+
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [74.183399, 31.370707]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Type":"House",
+          "House_Number":120,
+          "land_size":"10 Marla",
+          "Bedrooms":5,
+          "Baths":7,
+          "Address":"DD-Block Sector D",
+          "Area":"Bahria Town",
+          "Sector":"D",
+          "Price":"Rs 2.8 Crore",
+          "Date":"20 March 2020",
+          "image":"https://i.postimg.cc/CxfWYK1L/ralph-ravi-kayden-m-R1-CIDdu-GLc-unsplash.jpg",
+          "icon":"https://i.postimg.cc/ZnFy6j9g/location-pin.png",
+          "icon1":"https://i.postimg.cc/xdDnSQpv/globe-grid.png"
+
+
+
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [74.172303, 31.376335]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Type":"House",
+          "House_Number":121,
+          "land_size":"10 Marla",
+          "Bedrooms":5,
+          "Baths":7,
+          "Address":"DD-Block Sector D",
+          "Area":"Bahria Town",
+          "Sector":"D",
+          "Price":"Rs 2.8 Crore",
+          "Date":"20 March 2020",
+          "image":"https://i.postimg.cc/5tgpMcw2/jacques-bopp-Hh18-POSx5qk-unsplash.jpg",
+          "icon":"https://i.postimg.cc/ZnFy6j9g/location-pin.png",
+          "icon1":"https://i.postimg.cc/xdDnSQpv/globe-grid.png"
+
+
+
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [74.165865, 31.372488]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Type":"Commercial",
+          "House_Number":122,
+          "land_size":"10 Marla",
+          "Bedrooms":5,
+          "Baths":7,
+          "Address":"DD-Block Sector D",
+          "Area":"Bahria Town",
+          "Sector":"D",
+          "Price":"Rs 2.8 Crore",
+          "Date":"20 March 2020",
+          "image":"https://i.postimg.cc/pXyZ3H44/swapnil-potdar-a-W8kdtq-XMcs-unsplash.jpg",
+          "icon":"https://i.postimg.cc/ZnFy6j9g/location-pin.png",
+          "icon1":"https://i.postimg.cc/xdDnSQpv/globe-grid.png"
+
+
+
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [74.174749, 31.368567]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Type":"House",
+          "House_Number":123,
+          "land_size":"10 Marla",
+          "Bedrooms":5,
+          "Baths":7,
+          "Address":"Blossom Block",
+          "Area":"Bahria Town",
+          "Sector":"blossom",
+          "Price":"Rs 2.8 Crore",
+          "Date":"20 March 2020",
+          "image":"https://i.postimg.cc/0NTqgwxf/terrah-holly-pmhdkg-RCbt-E-unsplash.jpg",
+          "icon":"https://i.postimg.cc/ZnFy6j9g/location-pin.png",
+          "icon1":"https://i.postimg.cc/xdDnSQpv/globe-grid.png"
+
+
+
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [74.192352, 31.354661]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Type":"Commercial",
+          "House_Number":124,
+          "land_size":"10 Marla",
+          "Bedrooms":5,
+          "Baths":7,
+          "Address":"Blossom Block",
+          "Area":"Bahria Town",
+          "Sector":"blossom",
+          "Price":"Rs 2.8 Crore",
+          "Date":"20 March 2020",
+          "image":"https://i.postimg.cc/cLpXQbDj/parth-savani-Yk-Xb-HOGI8-ZY-unsplash.jpg",
+          "icon":"https://i.postimg.cc/ZnFy6j9g/location-pin.png",
+          "icon1":"https://i.postimg.cc/xdDnSQpv/globe-grid.png"
+
+
+
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [74.189069,31.353140]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Type":"House",
+          "House_Number":125,
+          "land_size":"10 Marla",
+          "Bedrooms":5,
+          "Baths":7,
+          "Address":"Violet Block",
+          "Area":"Bahria Town",
+          "Sector":"violet",
+          "Price":"Rs 2.8 Crore",
+          "Date":"20 March 2020",
+          "image":"https://i.postimg.cc/K8QnsPP6/dillon-kydd-XGvwt544g8k-unsplash.jpg",
+          "icon":"https://i.postimg.cc/ZnFy6j9g/location-pin.png",
+          "icon1":"https://i.postimg.cc/xdDnSQpv/globe-grid.png"
+
+
+
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [74.179456, 31.357171]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Type":"House",
+          "House_Number":126,
+          "land_size":"10 Marla",
+          "Bedrooms":5,
+          "Baths":7,
+          "Address":"Violet Block",
+          "Area":"Bahria Town",
+          "Sector":"violet",
+          "Price":"Rs 2.8 Crore",
+          "Date":"20 March 2020",
+          "image":"https://i.postimg.cc/qv9krYxy/bailey-anselme-Bkp3g-Lygye-A-unsplash.jpg",
+          "icon":"https://i.postimg.cc/ZnFy6j9g/location-pin.png",
+          "icon1":"https://i.postimg.cc/xdDnSQpv/globe-grid.png"
+
+
+
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [74.171903, 31.354716]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Type":"Plot",
+          "House_Number":127,
+          "land_size":"10 Marla",
+          "Bedrooms":5,
+          "Baths":7,
+          "Address":"Ali Block Sector B",
+          "Area":"Bahria Town",
+          "Sector":"B",
+          "Price":"Rs 2.8 Crore",
+          "Date":"20 March 2020",
+          "image":"https://i.postimg.cc/XqtVjW8x/tim-umphreys-y3r-Adj-Bq-FJE-unsplash.jpg",
+          "icon":"https://i.postimg.cc/ZnFy6j9g/location-pin.png",
+          "icon1":"https://i.postimg.cc/xdDnSQpv/globe-grid.png"
+
+
+
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [74.164373, 31.372954]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Type":"House",
+          "House_Number":128,
+          "land_size":"10 Marla",
+          "Bedrooms":5,
+          "Baths":7,
+          "Address":"Violet Block",
+          "Area":"Bahria Town",
+          "Sector":"violet",
+          "Price":"Rs 2.8 Crore",
+          "Date":"20 March 2020",
+          "image":"https://i.postimg.cc/VNYKJsg8/chi-m-R1ui-Du8v-Bh0-unsplash.jpg",
+          "icon":"https://i.postimg.cc/ZnFy6j9g/location-pin.png",
+          "icon1":"https://i.postimg.cc/xdDnSQpv/globe-grid.png"
+
+
+
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [74.171903, 31.354716]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Type":"House",
+          "House_Number":129,
+          "land_size":"10 Marla",
+          "Bedrooms":5,
+          "Baths":7,
+          "Address":"Ali Block Sector B",
+          "Area":"Bahria Town",
+          "Sector":"B",
+          "Price":"Rs 2.8 Crore",
+          "Date":"20 March 2020",
+          "image":"https://i.postimg.cc/d0bm8qm3/vincent-ledvina-zn-H6-W7mp-W9g-unsplash.jpg",
+          "icon":"https://i.postimg.cc/ZnFy6j9g/location-pin.png",
+          "icon1":"https://i.postimg.cc/xdDnSQpv/globe-grid.png"
+
+
+
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [74.167184, 31.371873]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Type":"House",
+          "House_Number":130,
+          "land_size":"10 Marla",
+          "Bedrooms":5,
+          "Baths":7,
+          "Address":"Violet Block",
+          "Area":"Bahria Town",
+          "Sector":"violet",
+          "Price":"Rs 2.8 Crore",
+          "Date":"20 March 2020",
+          "image":"https://i.postimg.cc/zBYKyx8R/doug-vos-HEHj-Fv-FHpr8-unsplash.jpg",
+          "icon":"https://i.postimg.cc/ZnFy6j9g/location-pin.png",
+          "icon1":"https://i.postimg.cc/xdDnSQpv/globe-grid.png"
+
+
+
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [74.168750, 31.363775]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Type":"Plot",
+          "House_Number":131,
+          "land_size":"10 Marla",
+          "Bedrooms":5,
+          "Baths":7,
+          "Address":"Violet Block",
+          "Area":"Bahria Town",
+          "Sector":"violet",
+          "Price":"Rs 2.8 Crore",
+          "Date":"20 March 2020",
+          "image":"https://i.postimg.cc/sX7JFX80/maria-krasnova-q-D7tpy-Voz-Y-unsplash.jpg",
+          "icon":"https://i.postimg.cc/ZnFy6j9g/location-pin.png",
+          "icon1":"https://i.postimg.cc/xdDnSQpv/globe-grid.png"
+
+
+
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [74.172956, 31.360917]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Type":"Commercial",
+          "House_Number":132,
+          "land_size":"10 Marla",
+          "Bedrooms":5,
+          "Baths":7,
+          "Address":"Iris Block Sector C",
+          "Area":"Bahria Town",
+          "Sector":"Iris",
+          "Price":"Rs 2.8 Crore",
+          "Date":"20 March 2020",
+          "image":"https://i.postimg.cc/CLyWfnSd/leohoho-QL7-Kd-Xdcf-WA-unsplash.jpg",
+          "icon":"https://i.postimg.cc/ZnFy6j9g/location-pin.png",
+          "icon1":"https://i.postimg.cc/xdDnSQpv/globe-grid.png"
+
+
+
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [74.197675, 31.368466]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Type":"Plot",
+          "House_Number":133,
+          "land_size":"10 Marla",
+          "Bedrooms":5,
+          "Baths":7,
+          "Address":"Voilet Block",
+          "Area":"Bahria Town",
+          "Sector":"violet",
+          "Price":"Rs 2.8 Crore",
+          "Date":"20 March 2020",
+          "image":"https://i.postimg.cc/YCRCF5q2/mw960367054-ANMXc7-Qdp-I8-unsplash.jpg",
+          "icon":"https://i.postimg.cc/ZnFy6j9g/location-pin.png",
+          "icon1":"https://i.postimg.cc/xdDnSQpv/globe-grid.png"
+
+
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [74.190981, 31.366414]
+        }
+      }
+      
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+      
+    ]
+  }

@@ -1,0 +1,55 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: Ubuntu;
+}
+.location{
+    color: red;
+    font-size:48px;
+}
+.location:hover{
+    cursor: pointer;
+}
+.park_popup{
+    /* padding: 5px; */
+    /* border: 1px solid black; */
+}
+.marker {
+    background-image: url(../Components/ping1.png);
+    background-size: cover;
+    width: 30px;
+    height: 30px;
+    cursor: pointer;
+}
+.marker1 {
+    background-image: url(../Components/ping.png);
+    background-size: cover;
+    width: 30px;
+    height: 30px;
+    cursor: pointer;
+}
+.marker2 {
+    background-image: url(../Components/place.png);
+    background-size: cover;
+    width: 30px;
+    height: 30px;
+    cursor: pointer;
+}
+.mapboxgl-popup {
+    /* box-shadow: 3px 2px 21px -2px rgba(0,0,0,0.85);
+-webkit-box-shadow: 3px 2px 21px -2px rgba(0,0,0,0.85);
+-moz-box-shadow: 3px 2px 21px -2px rgba(0,0,0,0.85); */
+/* border: 5px outset #3e23a6;
+background: #ffffff; */
+/* background-color: white; */
+/* height: 350px; */
+  }
+  
+.mapboxgl-popup-content{
+    font-family: 'sans-serif';
+    border-radius: 10px;
+    background-color:white;
+    width: 320px;
+    height: 300px;
+}
